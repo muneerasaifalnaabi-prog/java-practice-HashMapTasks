@@ -13,8 +13,7 @@ public class ProductPriceDemo {
         productPriceMap.put("Smartphones", 299.99);
         productPriceMap.put("TV", 79.99);
 
-        //Display all elements in the HashMap
-        System.out.println("Full Product Price HashMap: " + productPriceMap);
+
 
         System.out.println("Product Records Display Product : ");
         //display all elements using for-each loop
